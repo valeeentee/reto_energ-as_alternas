@@ -3,4 +3,5 @@ pandas
 numpy
 pvlib
 plotly
-openpyxl
+streamlit-folium
+folium
